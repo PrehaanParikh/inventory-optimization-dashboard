@@ -1,5 +1,3 @@
-# inventory-optimization-dashboard
-Excel dashboard to track inventory, automate alerts, and visualize stock data
 # Inventory Optimization Dashboard (Excel)
 
 ## Objective
